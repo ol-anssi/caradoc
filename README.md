@@ -7,6 +7,18 @@ Caradoc provides many commands to analyze PDFs, as well as an interactive user i
 Caradoc was presented at the the third Workshop on Language-Theoretic Security (LangSec) in May 2016.
 More information is available on the [website of the conference](http://spw16.langsec.org/papers.html#caradoc).
 
+
+# Ongoing support
+
+Caradoc has been originally developed at ANSSI, but new releases are
+not provided by the agency anymore.
+
+Therefore, anyone who wishes to get upstream versions of the project
+must visit https://github.com/gendx/caradoc as this page now
+**only serves archive purposes**.
+
+
+
 ## Dependencies
 
 Along with an OCaml compiler, this program depends on the following libraries:
